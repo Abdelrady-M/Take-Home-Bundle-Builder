@@ -1,0 +1,28 @@
+{
+  "path": "/",
+  "name": "front-office",
+  "modules": [
+    {
+      "entry": [
+        "/account",
+        "/login",
+        "/register",
+        "/forget-password",
+        "/rest-password"
+      ],
+      "name": "account"
+    },
+    {
+      "entry": ["/"],
+      "name": "home"
+    },
+    {
+      "entry": ["/design-system"],
+      "name": "design-system"
+    },
+    {
+      "entry": ["/about-us", "/privacy-policy", "/terms-conditions"],
+      "name": "informative-pages"
+    }
+  ]
+}

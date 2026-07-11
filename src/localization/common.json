@@ -1,0 +1,18 @@
+{
+  "home": {
+    "en": "Home",
+    "ar": "الرئيسية"
+  },
+  "contactUs": {
+    "en": "Contact Us",
+    "ar": "تواصل معنا"
+  },
+  "login": {
+    "en": "Login",
+    "ar": "تسجيل الدخول"
+  },
+  "createAccount": {
+    "en": "Create Account",
+    "ar": "إنشاء حساب"
+  }
+}
